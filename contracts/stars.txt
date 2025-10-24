@@ -3,3 +3,4 @@
 3. Alpha Centauri A
 4. Alpha Centauri B
 5. Barnard’s Star
+6. Wolf 359
